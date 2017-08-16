@@ -1,0 +1,15 @@
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+…
+94
+Buzz
+Fizz
+97
+98
+Fizz
+Buzz
